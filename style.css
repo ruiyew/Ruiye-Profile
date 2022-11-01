@@ -50,9 +50,12 @@ a:hover{color:skyblue}
 
 }
 
-video{
-    width:450px;
+@media(max-width:500px){
+    iframe{
+        width 200px;
+    }
 }
+    
 ul{
     list-style: none;
     display: flex;
