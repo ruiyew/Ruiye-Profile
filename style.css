@@ -52,9 +52,9 @@ a:hover{color:skyblue}
 iframe{
     width:900px; height:890px
 }
-@media(max-width:900px;max-height:890px;){
+@media(max-width:900px;){
     iframe{
-        width:200px;height:180px;
+        width:200px;
     }
 }
     
